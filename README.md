@@ -1,6 +1,6 @@
 # Android-Templates
 
-<h1>How To Use Templates</h1>
+<h2>How To Use Templates</h2>
 
 <ul>
 <li>To use any template for android studio, download the template.java file and copy it to <b>Android Studio>config>fileTemplates</b>.</li>
@@ -9,7 +9,7 @@
 <li>Voila! template code is imported to your project.</li>
 </ul>
 
-<h1>RecyclerViewAdapter.java</h1>
+<h2>RecyclerViewAdapter.java</h2>
 
 It is simple template for creating Adapter and ViewHolder for RecyclerView in just few seconds. Following perameters are required to use the template.
 
